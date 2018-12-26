@@ -4,7 +4,8 @@
   "description": "This is my boilerplate for including all modern JavaScript tooling with React",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "author": "Rachna Bansal <rachnasinghal2005@gmail.com> (https://github.com/rachnaban)",
   "license": "MIT",
@@ -16,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/rachnaban/modern-tools-react/issues"
   },
-  "homepage": "https://github.com/rachnaban/modern-tools-react#readme"
+  "homepage": "https://github.com/rachnaban/modern-tools-react#readme",
+  "devDependencies": {
+    "webpack": "4.28.2",
+    "webpack-cli": "3.1.2"
+  }
 }
