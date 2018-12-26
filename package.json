@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rachna Bansal <rachnasinghal2005@gmail.com> (https://github.com/rachnaban)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachnaban/modern-tools-react.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/rachnaban/modern-tools-react/issues"
+  },
+  "homepage": "https://github.com/rachnaban/modern-tools-react#readme"
 }
