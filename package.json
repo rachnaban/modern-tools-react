@@ -1,0 +1,11 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.1.0",
+  "description": "This is my boilerplate for including all modern JavaScript tooling with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rachna Bansal <rachnasinghal2005@gmail.com> (https://github.com/rachnaban)",
+  "license": "MIT"
+}
